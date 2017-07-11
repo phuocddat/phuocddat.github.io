@@ -4,41 +4,41 @@
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "January 2008 - September 2008",
-		"tags": ["Image processing", "LPR", "Hough transform"]
+		"tags": ["Image processing", "LPR"]
 	},
 	{
 		"name": "A novel automated application code generator for Wireless Sensors Networks",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "September 2010 - September 2011",
-		"tags": ["Wireless sensors network", "Code generator"]
+		"tags": ["Wireless sensors network"]
 	},
 	{
 		"name": "Multi Criteria Decision Making techniques for system architecture trade-off studies",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "January 2013 - September 2013",
-		"tags": ["MCDM","Multi-objectives Optimization", "Clustering", "PCA", "efficient VAT"]
+		"tags": ["MCDM","Multi-objectives Optimization", "Clustering", "Machine Learning"]
 	},
 	{
-		"name": "Abnormal events detection for Traffic Control System",
+		"name": "Abnormal events detection for Urban Traffic Control System",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "Oct 2014 - Jan 2015",
-		"tags": ["Clustering", "Data mining", "Oracle", "Real-time", "Traffic Control System", "Weka", "Dlib"]
+		"tags": ["Clustering", "Real-time", " Urban Traffic Control System", "Dlib"]
 	},	
 	{
 		"name": "Robust-RTOS for Smart Traffic Controller",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "June 2014 - September 2015",
-		"tags": ["RTOS", "Traffic Control System", "Multi-sensors fusion", "ARM"]
+		"tags": ["RTOS", "Urban Traffic Control System", "Multi-sensors fusion", "ARM"]
 	},
 	{
 		"name": "VEPAV- Distributed on-street parking surveillance for PTZ-cameras network",
 		"image": "placeholder.jpg",
 		"date": "December 2015 - March 2017",
-		"tags": ["Computer Vision", "Machine Learning", "Object detection", "Multiple objects tracking", "Distributed tracking"]
+		"tags": ["Computer Vision", "Machine Learning", "Object detection", "Multiple objects tracking"]
 	}
 
 ]
