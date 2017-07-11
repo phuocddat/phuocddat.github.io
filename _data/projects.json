@@ -1,30 +1,44 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "Automatic License Plate Recognition in camera pictures",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"date": "January 2008 - September 2008",
+		"tags": ["Image processing", "LPR", "Hough transform"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "A novel automated application code generator for Wireless Sensors Networks",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"date": "September 2010 - September 2011",
+		"tags": ["Wireless sensors network", "Code generator"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "Multi Criteria Decision Making techniques for system architecture trade-off studies",
 		"image": "placeholder.jpg",
 		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"date": "January 2013 - September 2013",
+		"tags": ["MCDM","Multi-objectives Optimization", "Clustering", "PCA", "efficient VAT"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "Abnormal events detection for Traffic Control System",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
+		"url": "#",
+		"date": "Oct 2014 - Jan 2015",
+		"tags": ["Clustering", "Data mining", "Oracle", "Real-time", "Traffic Control System", "Weka", "Dlib"]
+	},	
+	{
+		"name": "Robust-RTOS for Smart Traffic Controller",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "June 2014 - September 2015",
+		"tags": ["RTOS", "Traffic Control System", "Multi-sensors fusion", "ARM"]
+	},
+	{
+		"name": "VEPAV- Distributed on-street parking surveillance for PTZ-cameras network",
+		"image": "placeholder.jpg",
+		"date": "December 2015 - March 2017",
+		"tags": ["Computer Vision", "Machine Learning", "Object detection", "Multiple objects tracking", "Distributed tracking"]
 	}
 
 ]
